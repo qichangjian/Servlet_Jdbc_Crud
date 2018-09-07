@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+form{
+    border: 1px;
+    align-content: center;
+    align:center;
+}
+table{
+    width: 70%;
+    margin: 0;
+    padding: 0;
+}
+td{
+    border: 1px solid gray;
+}
+th{
+    border: 1px solid gray;
+}
+#failMsg{
+    color: red;
+}
